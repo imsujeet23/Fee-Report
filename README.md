@@ -7,7 +7,7 @@ Frontend: Java Swing (Desktop GUI)
 Backend: Java Servlets
 
 Database: MySQL (or any relational SQL database)
-
+---------------------------------------------------
 Server: Apache Tomcat (or any servlet container)
 
 Features
