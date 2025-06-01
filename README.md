@@ -14,7 +14,7 @@ Features
 Admin and Accountant login system
 
 Add, update, view, and delete student fee records
-
+.
 Search fee details by student ID or name
 
 Manage accountant accounts (add/view/delete)
